@@ -13,7 +13,7 @@
 clc; close all; clear
 
 %% Load image
-load('IMAGES_SparseCoding.mat')
+load('IMAGES.mat')
 
 numImages = size(IMAGES_WHITENED,3);
 imageSize = size(IMAGES_WHITENED,1);
