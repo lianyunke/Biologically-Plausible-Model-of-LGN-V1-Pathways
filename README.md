@@ -14,6 +14,6 @@ Citation: Lian Y, Grayden DB, Kameneva T, Meffin H and Burkitt AN (2019) Toward 
 
 'DisplayA.m' is a function that can displays many pictures with the same size at the same time.
 
-'Green2Magenta.m' and 'scm.m' are functions that defines colorcodes for plotting figures.
+'Green2Magenta.m' and 'scm.m' are functions that define colorcodes for plotting figures.
 
 'IMAGES.mat' is the Pre-whitened natural images used to train the model (downloaded from http://www.rctn.org/bruno/sparsenet/).
